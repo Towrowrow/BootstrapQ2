@@ -209,7 +209,7 @@ opacity: 1;
     position: absolute;
     margin-left: 10vh;
 }
-strike{
+#strike{
   text-decoration: line-through #FE661D;
 
 }
